@@ -1,0 +1,29 @@
+{
+  "name": "com.creatush.filesprofiler",
+  "version": "1.0.0",
+  "displayName": "Files Profiler",
+  "description": "Find unused assets, merge duplicates, and safely re-point GUID references across your entire Unity project — textures, audio, models, materials, prefabs, animations, shaders, and more, all from one editor window.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/creatush/files-profiler/blob/main/Documentation~/index.md",
+  "changelogUrl": "https://github.com/creatush/files-profiler/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/creatush/files-profiler/blob/main/LICENSE.md",
+  "keywords": [
+    "editor",
+    "tools",
+    "textures",
+    "assets",
+    "unused assets",
+    "duplicates",
+    "guid",
+    "optimization",
+    "project cleanup"
+  ],
+  "category": "Editor",
+  "author": {
+    "name": "Creatush",
+    "url": "https://creatush.com"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "samples": []
+}
